@@ -36,6 +36,7 @@ button {
     color: white;
     font-size: 46px;
     font-weight: bold;
+    border: 3px solid white;
 }
 
 .buttons {
@@ -49,14 +50,16 @@ button {
 
 }
 
-.digit {
-
-}
-
 .operator {
     background-color: orange;
 }
 
 .equals {
     background-color: lightgreen;
+}
+
+.clear {
+    background-color: rgb(70, 69, 69);
+    color: white;
+    border: 3px solid orange;
 }
